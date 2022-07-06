@@ -1,0 +1,105 @@
+1)  Which tool can display the distribution of AWS spending?
+A)   AWS Cost Explorer
+
+
+2)  What are the following security requirements managed by AWS customers?
+A)   Password Policies, and User Permissions
+
+
+3)  Who has control of the data in an AWS Account?
+A)   AWS Account Owner
+
+
+4)  Which AWS service automates infrastructure provisioning and administrative tasks for an analytical data warehouse?
+A)   Amazon Redshift
+
+
+5)  What is an example of following the cloud design principle, 'design for failure, and nothing will fail'?
+A)   Deploying an application in multiple Availability Zones
+
+
+6)  Which service allows an admin to create and modify AWS user permissions?
+A)   AWS IAM
+
+
+7)  A disaster recovery strategy on AWS should be based on launching infrastructure in a separate?
+A)   AWS Region
+
+
+8)  Amazon EC2 Spot instances are appropriate for which workload?
+A)   Workloads where the availability of the Amazon EC2 instances can be flexible
+
+
+9)  Which is a factor when calculating Total Cost of Ownership (TCO) for AWS Cloud?
+A)   The number of servers migrated to AWS
+
+
+10)  Where can a customer go to get more detail about Amazon EC2 billing activity that took place 3 months ago?
+A)   AWS Cost and Usage reports
+
+
+11)  What AWS feature enables a user to manage services through a web-based user interface?
+A)   AWS Management Console
+
+
+12)  Which service should an administrator use to register a new domain name with AWS?
+A)   Amazon Route 53
+
+
+13)  How can the AWS Management Console be secured against unauthorized access?
+A)   Apply Multi-Factor Authentication
+
+
+14)  The main benefit of decoupling an application is to
+A)   reduce inter-dependencies, so failures do not impact other components
+
+
+15)  Systems applying the cloud architecture principle of elasticity will
+A)   create systems that scale to the required capacity based on changes in demand
+
+
+16)  Which AWS service provides infrastructure security optimization recommendations?
+A)   AWS Trusted Advisor
+
+
+17)  Which of the following is the responsibility of the AWS customer according to the Shared Responsibility Model?
+A)   Managing AWS IAM
+
+
+18)  What is the value of having AWS Cloud services accessible through an Application Programming Interface (API)?
+A)   Cloud resources can be managed programatically
+
+
+19)  What are the three types of EC2 instances in terms of purchase type?
+A)   On-demand, Spot, and Reserved
+
+
+20)  What do you NOT fundamentally have to pay for in AWS?
+A)   Data transfer into AWS, and Data transfer between AWS in the same region
+
+
+21)  How are ELB instances charged?
+A)   For each hour or partial hour that an application or NLB is running/For the number of Load Balancer Capacity 
+     Units used per hour by an application/For each GB of data transferred through a Classic Load Balancer
+
+
+22)  What is not used in calculating S3 cost?
+A)   Data transfer in
+
+
+23)  What are the five pillars of the well-architected framework?
+A)   Operational Excellence - Run and monitor systems to deliver business value and continually 
+     improve supporting processes and procedures/Security - protect information, systems, and assets 
+     while delivering business value through risk assessments and mitigation strategies/Reliability - Recover from 
+     infrastructure or service failures, dynamically acquire computing resources to meet demand, mitigate disruptions/Performance 
+     Efficiency - Use computing resources efficiently to meet system requirements, and to maintain efficiency as demand changes and technologies 
+     evolve/Cost Optimization - avoid and eliminate unneeded cost or suboptimal resources with cost-effective resources, matched supply and demand,
+     and expenditure awareness
+
+
+24)  Which service allows for the collection and tracking of metrics for AWS services?
+A)   Amazon CloudWatch
+
+
+25)  What is not included in the AWS Free tier?
+A)   AWS Web Application Firewall (WAF)
