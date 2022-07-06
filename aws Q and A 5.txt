@@ -1,0 +1,553 @@
+Under the shared responsibility model, which of the following is the customer responsible for?
+
+Ensuring that disk drives are wiped after use.
+Ensuring that firmware is updated on hardware devices.
+Ensuring that data is encrypted at rest.
+Ensuring that network cables are category six or higher.
+Ensuring that data is encrypted at rest.
+
+
+
+The use of what AWS feature or service allows companies to track and categorize spending on a detailed level?
+
+Cost allocation tags
+Consolidated billing
+AWS Budgets
+AWS Marketplace
+COst allocation Tags
+
+
+
+Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?
+
+Amazon Glacier
+AWS Storage Gateway
+Amazon S3
+Amazon EBS
+Amazon S3
+
+
+
+What AWS team assists customers with accelerating cloud adoption through paid engagements in any of several specialty practice areas?
+
+AWS Enterprise Support
+AWS Solutions Architects
+AWS Professional Services
+AWS Account Managers
+AWS Professional Services
+
+
+
+Distributing workloads across multiple Availability Zones supports which cloud architecture design principle?
+
+Implement automation.
+Design for agility.
+Design for failure.
+Implement elasticity.
+Design for failure.
+
+
+
+Which AWS services can host a Microsoft SQL Server database? (Choose two.)
+
+Amazon EC2
+Amazon Relational Database Service (Amazon RDS)
+Amazon Aurora
+Amazon Redshift
+Amazon S3
+Amazon EC2
+
+Amazon Relational Database Service (Amazon RDS)
+
+
+
+7. Which of the following Amazon EC2 pricing models allow customers to use existing server-bound software licenses?
+
+Spot Instances
+Reserved Instances
+Dedicated Hosts
+On-Demand Instances
+Dedicated Hosts
+
+
+
+Which AWS characteristics make AWS cost effective for a workload with dynamic user demand? (Choose two.)
+
+High availability
+Shared security model
+Elasticity
+Pay-as-you-go pricing
+Reliability
+Elasticity
+
+Pay-as-you-go pricing
+
+
+
+9. Which of the following are characteristics of Amazon S3? (Choose two.)
+
+A global file system
+An object store
+A local file store
+A network file system
+A durable storage system
+A durable storage system
+
+An object store
+
+
+
+Which of the following are advantages of AWS consolidated billing? (Choose two.)
+
+The ability to receive one bill for multiple accounts
+Service limits increasing by default in all accounts
+A fixed discount on the monthly bill
+Potential volume discounts, as usage in all accounts is combined
+The automatic extension of the master account's AWS support plan to all accounts
+The ability to receive one bill for multiple accounts
+
+Potential volume discounts, as usage in all accounts is combined
+
+
+
+What is cloud computing?
+
+Backing up files that are stored on desktop and mobile devices to prevent data loss
+Deploying applications connected to on-premises infrastructure
+Running code without needing to manage or provision servers
+On-demand delivery of IT resources and applications through the internet with pay-as-you-go pricing
+On-demand delivery of IT resources and applications through the internet with pay-as-you-go pricing
+
+
+
+
+
+How does the scale of cloud computing help you to save costs?
+
+You do not have to invest in technology resources before using them.
+The aggregated cloud usage from a large number of customers results in lower pay-as-you-go prices.
+Accessing services on-demand helps to prevent excess or limited capacity.
+You can quickly deploy applications to customers and provide them with low latency.
+The aggregated cloud usage from a large number of customers results in lower pay-as-you-go prices.
+
+
+General purpose instances provide
+
+a balance of compute, memory, and networking resources. You can use them for a variety of workloads, such as:
+application servers
+gaming servers
+backend servers for enterprise applications
+small and medium databases
+
+
+Compute optimized instances
+
+are ideal for compute-bound applications that benefit from high-performance processors. Like general purpose instances, you can use compute optimized instances for workloads such as web, application, and gaming servers.
+
+
+
+Memory optimized instances
+
+are designed to deliver fast performance for workloads that process large datasets in memory. In computing, memory is a temporary storage area. It holds all the data and instructions that a central processing unit (CPU) needs to be able to complete actions. Before a computer program or application is able to run, it is loaded from storage into memory. This preloading process gives the CPU direct access to the computer program.
+
+
+
+Accelerated computing instances
+
+use hardware accelerators, or coprocessors, to perform some functions more efficiently than is possible in software running on CPUs. Examples of these functions include floating-point number calculations, graphics processing, and data pattern matching.
+
+
+
+Storage optimized instances
+
+are designed for workloads that require high, sequential read and write access to large datasets on local storage. Examples of workloads suitable for storage optimized instances include distributed file systems, data warehousing applications, and high-frequency online transaction processing (OLTP) systems.
+
+In computing, the term input/output operations per second (IOPS) is a metric that measures the performance of a storage device. It indicates how many different input or output operations a device can perform in one second. Storage optimized instances are designed to deliver tens of thousands of low-latency, random IOPS to applications.
+
+You can think of input operations as data put into a system, such as records entered into a database. An output operation is data generated by a server. An example of output might be the analytics performed on the records in a database. If you have an application that has a high IOPS requirement, a storage optimized instance can provide better performance over other instance types not optimized for this kind of use case.
+
+
+Ideal for high-performance databases
+Memory optimized
+
+
+Suitable for data warehousing applications
+Storage optimized
+
+
+Balances compute, memory, and networking resources
+General purpose
+
+
+
+
+On-Demand Instances
+
+are ideal for short-term, irregular workloads that cannot be interrupted. No upfront costs or minimum contracts apply. The instances run continuously until you stop them, and you pay for only the compute time you use. Sample use cases for On-Demand Instances include developing and testing applications and running applications that have unpredictable usage patterns. On-Demand Instances are not recommended for workloads that last a year or longer because these workloads can experience greater cost savings using Reserved Instances.
+
+
+
+AWS offers Savings Plans
+for several compute services, including Amazon EC2. Amazon EC2 Savings Plans enable you to reduce your compute costs by committing to a consistent amount of compute usage for a 1-year or 3-year term. This term commitment results in savings of up to 72% over On-Demand costs.
+
+Any usage up to the commitment is charged at the discounted Savings Plan rate (for example, $10 an hour). Any usage beyond the commitment is charged at regular On-Demand rates.
+
+
+Reserved Instances
+
+are a billing discount applied to the use of On-Demand Instances in your account. You can purchase Standard Reserved and Convertible Reserved Instances for a 1-year or 3-year term, and Scheduled Reserved Instances for a 1-year term. You realize greater cost savings with the 3-year option.
+
+At the end of a Reserved Instance term, you can continue using the Amazon EC2 instance without interruption. However, you are charged On-Demand rates until you do one of the following:
+Terminate the instance.
+Purchase a new Reserved Instance that matches the instance attributes (instance type, Region, tenancy, and platform).
+
+
+Spot Instances
+
+are ideal for workloads with flexible start and end times, or that can withstand interruptions. Spot Instances use unused Amazon EC2 computing capacity and offer you cost savings at up to 90% off of On-Demand prices.
+
+
+
+Dedicated Hosts
+
+are physical servers with Amazon EC2 instance capacity that is fully dedicated to your use.
+
+
+Payload is?
+Data contained within a message
+
+
+Where are messages placed until they are processed?
+Amazon SQS queues
+
+
+What do you call a channel for a message to be delivered?
+Amazon SNS topic
+
+
+Suppose that you have an application with tightly coupled components. These components might include databases, servers, the user interface, business logic, and so on. What is this application called?
+monolithic application.
+
+
+
+
+Microservices approach are considered to be?
+Loosely coupled. In this case, if a single component fails, the other components continue to work because they are communicating with each other. The loose coupling prevents the entire application from failing.
+
+
+Which AWS service is the best choice for publishing messages to subscribers?
+Amazon Simple Notification Service (Amazon SNS)
+
+
+Serverless
+
+When you cannot see or access the underlying infrastructure.
+
+
+a serverless compute service that lets you run code without provisioning or managing servers, creating workload-aware cluster scaling logic, maintaining event integrations, or managing runtimes?
+AWS Lambda!
+
+
+
+a highly scalable, high-performance container management system that enables you to run and scale containerized applications on AWS?
+Amazon Elastic Container Service (Amazon ECS)
+
+
+
+is a fully managed service that you can use to run Kubernetes on AWS.
+open-source software that enables you to deploy and manage containerized applications at scale.
+Amazon Elastic Kubernetes Service (Amazon EKS)
+
+
+
+serverless compute engine for containers. It works with both Amazon ECS and Amazon EKS.
+you do not need to provision or manage servers. ______________________manages your server infrastructure for you. You can focus more on innovating and developing your applications, and you pay only for the resources that are required to run your containers.
+AWS Fargate
+
+
+
+You want to use an Amazon EC2 instance for a batch processing workload. What would be the best Amazon EC2 instance type to use?
+
+General purpose
+Memory optimized
+Compute optimized
+Storage optimized
+Compute
+
+
+more ideal for workloads that process large datasets in memory, such as high-performance databases?
+Memory optimized instances
+
+
+provide a balance of compute, memory, and networking resources?
+GP instances
+
+
+
+
+designed for workloads that require high, sequential read and write access to large datasets on local storage?
+Storage optimized instances
+
+
+What are the contract length options for Amazon EC2 Reserved Instances?
+1&3
+
+
+You have a workload that will run for a total of 6 months and can withstand interruptions. What would be the most cost-efficient Amazon EC2 purchasing option?
+Spot Instance
+
+
+Instances that require a contract length of either 1 year or 3 years are called?
+Reserved instances
+
+
+Run in a virtual private cloud (VPC) on hardware that is dedicated to a _____________________ customer. They have a higher cost than the other response options, which run on shared hardware.
+Dedicated
+
+
+fulfill the requirements of running for only 6 months and withstanding interruptions. However, a _____________________ Instance would be the best choice because it does not require a minimum contract length, is able to withstand interruptions, and costs less than an On-Demand Instance.
+On-Demand Instances
+
+
+Which process is an example of Elastic Load Balancing?
+Ensuring that no single Amazon EC2 instance has to carry the full workload on its own.
+
+
+You want to deploy and manage containerized applications. Which service should you use?
+Amazon Elastic Kubernetes Service (Amazon EKS)
+
+
+4 requirements for selecting a region CPAP
+Compliance with legal, Proximity to your customer, Available services within region, Pricing
+
+
+Which statement best describes an Availability Zone?
+
+A geographical area that contains AWS resources
+A single data center or group of data centers within a Region
+A data center that an AWS service uses to perform service-specific operations
+A service that you can use to run AWS infrastructure within your own on-premises data center in a hybrid approach
+A single data center or group of data centers within a Region
+
+
+
+When you provide code and configuration settings, and Elastic Beanstalk deploys the resources necessary to perform the following tasks:
+Adjust capacity Load balancing Automatic scaling Application health monitoring. What is this service called?
+AWS Elastic Beanstalk
+
+
+Which statement is TRUE for the AWS global infrastructure?
+
+A Region consists of a single Availability Zone.
+An Availability Zone consists of two or more Regions.
+A Region consists of two or more Availability Zones.
+An Availability Zone consists of a single Region.
+A Region consists of two or more Availability Zones.
+
+
+
+Which factors should be considered when selecting a Region? (Select TWO.)
+
+1.Compliance with data governance and legal requirements
+2.Proximity to your customers
+3.Access to 24/7 technical support
+4.Ability to assign custom permissions to different users
+5Access to the AWS Command Line Interface (AWS CLI)
+1.Compliance with data governance and legal requirements
+
+2.Proximity to your customers
+
+
+
+Which statement best describes Amazon CloudFront?
+
+A service that enables you to run infrastructure in a hybrid cloud approach
+A serverless compute engine for containers
+A service that enables you to send and receive messages between software components through a queue
+A global content delivery service
+A global content delivery service
+
+
+
+Which site does Amazon CloudFront use to cache copies of content for faster delivery to users at any location? Hint: EL
+Edge Location
+
+
+Which action can you perform with AWS Outposts?
+
+Automate actions for AWS services and applications through scripts.
+Access wizards and automated workflows to perform tasks in AWS services.
+Develop AWS applications in supported programming languages.
+Extend AWS infrastructure and services to your on-premises data center.
+Extend AWS infrastructure and services to your on-premises data center.
+
+
+AWS Direct Connect
+
+enables you to establish a dedicated private connection between your data center and a VPC.
+
+
+Which statement best describes an AWS account's default network access control list?
+
+It is stateless and denies all inbound and outbound traffic.
+It is stateful and allows all inbound and outbound traffic.
+It is stateless and allows all inbound and outbound traffic.
+It is stateful and denies all inbound and outbound traffic.
+It is stateless and allows all inbound and outbound traffic.
+
+
+
+What is DNS
+Think of DNS as a translation service. But instead of translating between languages, it translates website names into IP, or Internet Protocol, addresses that computers can read.
+
+
+What connects user requests to infrastructure running in AWS (such as Amazon EC2 instances and load balancers). It can _____________ users to infrastructure outside of AWS.
+Amazon RT 53
+
+
+Which statement best describes DNS resolution?
+
+Launching resources in a virtual network that you define
+Storing local copies of content at edge locations around the world
+Connecting a VPC to the internet
+Translating a domain name to an IP address
+Translating a domain name to an IP address
+
+
+Your company has an application that uses Amazon EC2 instances to run the customer-facing website and Amazon RDS database instances to store customers' personal information. How should the developer configure the VPC according to best practices?
+
+Place the Amazon EC2 instances in a private subnet and the Amazon RDS database instances in a public subnet.
+Place the Amazon EC2 instances in a public subnet and the Amazon RDS database instances in a private subnet.
+Place the Amazon EC2 instances and the Amazon RDS database instances in a public subnet.
+Place the Amazon EC2 instances and the Amazon RDS database instances in a private subnet.
+Place the Amazon EC2 instances in a public subnet and the Amazon RDS database instances in a private subnet.
+
+
+A(n) ___________ is a storage device that has no moving parts.
+A. HDD
+B. SSD
+C. Tape
+D. SCSI
+
+A. HDD
+
+
+Which type of storage device would be used primarily for off-site storage and archiving?
+A. HDD
+B. SSD
+C. Tape
+D. SCSI
+
+C. Tape storage is good for off-site storage and archiving because it is less expensive than other storage types.
+
+
+
+You have been given a drive space requirement of 2 terabytes for a production file server. Which type of disk would you recommended for this project if cost is a primary concern?
+A. SSD
+B. Tape
+C. HDD
+D. VLAN
+
+C. You should recommend using an HDD because of the large size requirement. An HDD would be considerably cheaper than an SSD. Also, since it is a file share the faster boot time provided by an SSD is not a factor
+
+
+
+Which of the following storage device interface types is the most difficult to configure?
+A. IDE
+B. SAS
+C. SATA
+D. SCSI
+
+D. SCSI is relatively difficult to configure, as the drives must be configured with a device ID and the bus has to be terminated.
+
+
+
+If price is not a factor, which type of storage device interface would you recommend for connecting to a corporate SAN?
+A. IDE
+B. SCSI
+C. SATA
+D. FC
+
+D. Fibre Channel delivers the fastest connectivity method, with speeds of up to 16 Gbps, but it is more expensive than the other interface types. If price is not a factor, FC should be the recommendation for connecting to a SAN.
+
+
+
+What RAID level would be used for a database file that requires minimum write requests to the database, a large amount of read requests to the database, and fault tolerance for the database?
+A. RAID 10
+B. RAID 1
+C. RAID 5
+D. RAID 0
+C. RAID 5 is best suited for a database or system drive that has a lot of read requests and very few write requests.
+
+A, B, and D are incorrect. RAID 10 would be used for a database that requires a lot of write requests and needs high performance. RAID 1 is used when performance and reliability are more important than storage capacity and is generally used for an operating system partition. RAID 0 provides no fault tolerance and would not be recommended.
+
+
+
+Which of the following statements can be considered a benefit of using RAID for storage solutions?
+A. It is more expensive than other storage solutions that do not include RAID.
+B. It provides degraded performance, scalability, and reliability.
+C. It provides superior performance, improved resiliency, and lower costs.
+D. It is complex to set up and maintain.
+C. Using RAID can provide all these benefits over conventional hard disk storage devices.
+
+
+
+Which data tier would you recommend for a mission-critical database that needs to be highly available all the time?
+A. Tier 1
+B. Tier 2
+C. Tier 3
+D. Tier 4
+A. Tier 1 data is defined as data that is mission-critical, highly available, and secure data.
+
+B, C, and D are incorrect. Tier 2 data is not mission-critical data and does not require the same response time as tier 1. Tier 3 data is data that is not accessed on a daily basis. Tier 4 data is used for archiving and is kept for compliance purposes.
+
+
+
+which term describes the ability for an organization to store data based on performance, cost, and availability?
+A. RAID
+B. Tiered storage
+C. SSD
+D. Tape drive
+B. Tiered storage refers to the process of moving data between storage devices based on performance, cost, and availability.
+
+ RAID is the process of making data highly available and redundant. It does not allow you to move data between storage devices. SSD and tape drive are types of storage devices.
+
+
+
+Which data tier would you recommend for data that is financial in nature, is not accessed on a daily basis, and is archived for tax purposes?
+A. Tier 1
+B. Tier 2
+C. Tier 3
+D. Tier 4
+
+C. Tier 3 storage would be for financial data that you want to keep for tax purposes and is not needed on a day-to-day basis.
+
+
+
+Which of the following file systems is used primarily for Unix-based operating systems?
+A. NTFS
+B. FAT
+C. VMFS
+D. UFS
+
+D. UFS is the primary file system in a Unix-based computer.
+
+
+
+The following file system was designed to replace the FAT file system:
+A. NTFS
+B. ZFS
+C. EXT
+D. UFS
+
+A. NTFS was designed by Microsoft as a replacement for FAT.
+
+
+
+Which of the following file systems was the first to be designed specifically for Linux?
+A. FAT
+B. NTFS
+C. UFS
+D. EXT
+
+EXT was the first file system designed specifically for Linux
